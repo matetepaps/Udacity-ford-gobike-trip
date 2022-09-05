@@ -51,4 +51,5 @@
 ### Key Insights for Presentation
 
 > 90.53% that undergo the trips were Subscriber while only 9.47% were Customer
+
 > The distribution of the start time chart show 2 peak of 8 hour and 17 hour
